@@ -1,0 +1,5 @@
+langchain==0.2.14
+langchain_openai==0.1.22
+huggingface_hub==0.24.5
+sentence-transformers==3.0.1
+chromadb==0.5.5

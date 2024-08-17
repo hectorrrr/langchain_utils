@@ -1,0 +1,4 @@
+langchain_tutorials/*
+langchain_env/*
+.env
+examples/chroma_db/chroma.sqlite3
