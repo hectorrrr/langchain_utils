@@ -2,6 +2,4 @@ langchain_tutorials/*
 langchain_env/*
 .env
 examples/chroma_db/*
-examples/GraphRAG.ipynb
-examples/neo4j_vector_store.ipynb
 examples/src/services/custom_llm_generator.py

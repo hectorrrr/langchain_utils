@@ -1,5 +1,8 @@
 langchain==0.2.14
 langchain_openai==0.1.22
+langchain-community==0.2.12
 huggingface_hub==0.24.5
 sentence-transformers==3.0.1
 chromadb==0.5.5
+wikipedia==1.4.0
+neo4j==5.23.1
